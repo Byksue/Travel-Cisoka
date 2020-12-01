@@ -1,0 +1,138 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Assistant', sans-serif;
+}
+
+.bg-navbar {
+  background-color: #DEE0E2 !important;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+.li-navbar {
+  font-size: 20px;
+  color: black !important;
+}
+
+.section-details-header {
+  min-height: 310px;
+  background-color: #587483;
+  margin-top: -75px;
+}
+
+.section-details-content {
+  margin-top: -200px;
+  min-height: 100vh;
+}
+
+.section-details-content .card-details {
+  padding: 30px;
+  border-radius: 5px;
+  color: #1C656A;
+  font-family: 'Playfair Display', serif;
+}
+
+.section-details-content .card-details h1 {
+  font-size: 30px;
+}
+
+.section-details-content .card-details h2 {
+  font-size: 28px;
+}
+
+.section-details-content .card-details p {
+  font-size: 20px;
+}
+
+.img-thumb {
+  height: 511px;
+  width: 1022px;
+}
+
+.bg-breadcrumb {
+  background-color: transparent;
+  padding: 0;
+  margin-bottom: 30px;
+}
+
+.item-link {
+  color: black !important;
+  font-weight: bold;
+}
+
+.item-link-active {
+  color: black !important;
+}
+
+.gallery .xzoom-container {
+  display: block;
+}
+
+.gallery .xzoom-container .xzoom {
+  width: 100%;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  margin-bottom: 10px;
+}
+
+.gallery .xzoom-thumbs .xactive {
+  border: 4px solid #1abc9c;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.section-spot-lain .section-spot-heading {
+  margin-top: 75px;
+}
+
+.section-spot-lain .section-spot-heading h2 {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: #587483;
+}
+
+.section-spot-content {
+  padding-top: 50px;
+}
+
+.section-spot-content .section-spot-terbaik .card-spot {
+  min-height: 380px;
+  background-color: #000;
+  color: #ffffff;
+  padding: 30px;
+  background-size: cover;
+  margin-bottom: 20px;
+}
+
+.section-spot-content .section-spot-terbaik .spot-nama {
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+  color: #ffffff;
+}
+
+.section-spot-content .section-spot-terbaik .spot-button .btn-spot-details {
+  background-color: #1A993B;
+  color: white;
+}
+
+.section-spot-content .section-spot-terbaik .spot-button .btn-spot-details:hover {
+  background-color: #31C056;
+  color: white;
+}
+
+.section-footer {
+  background-color: #ECF4F8;
+}
+
+.section-footer a {
+  color: #071c4d;
+  font-size: 18px;
+}
+
+.section-footer h5 {
+  font-weight: bold;
+}
+/*# sourceMappingURL=main-details.css.map */

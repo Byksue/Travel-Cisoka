@@ -1,0 +1,172 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Assistant', sans-serif;
+}
+
+.bg-navbar {
+  background-color: #DEE0E2 !important;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+.li-navbar {
+  font-size: 20px;
+  color: black !important;
+}
+
+header {
+  padding: 230px 0 165px;
+  margin-top: -70px;
+  background-image: url("../images/header 2.png");
+  background-size: cover;
+  height: 680px;
+}
+
+header h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 50px;
+  color: #ffff;
+}
+
+.section-penjelasan {
+  height: 600px;
+  background-color: #587483;
+  color: #fff;
+}
+
+.section-penjelasan .section-penjelasan-heading {
+  margin-top: 150px;
+}
+
+.section-penjelasan .section-penjelasan-heading h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.section-penjelasan .section-penjelasan-heading p {
+  font-family: 'Assistant', serif;
+  font-size: 25px;
+}
+
+.section-penjelasan .section-penjelasan-heading-mobile {
+  margin-top: 100px;
+}
+
+.section-penjelasan .section-penjelasan-heading-mobile h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+.section-penjelasan .section-penjelasan-heading-mobile p {
+  font-family: 'Assistant', serif;
+  font-size: 23px;
+}
+
+.section-spot-lain .section-spot-heading {
+  margin-top: 75px;
+}
+
+.section-spot-lain .section-spot-heading h2 {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 40px;
+  color: #587483;
+}
+
+.section-spot-content {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.section-spot-content .section-spot-terbaik .card-spot {
+  min-height: 380px;
+  background-color: #000;
+  color: #ffffff;
+  padding: 30px;
+  background-size: cover;
+  margin-bottom: 20px;
+}
+
+.section-spot-content .section-spot-terbaik .spot-nama {
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+  color: #ffffff;
+}
+
+.section-spot-content .section-spot-terbaik .spot-button .btn-spot-details {
+  background-color: #1A993B;
+  color: white;
+}
+
+.section-spot-content .section-spot-terbaik .spot-button .btn-spot-details:hover {
+  background-color: #31C056;
+  color: white;
+}
+
+.section-map-ulasan {
+  background-color: #587483;
+}
+
+.section-map-ulasan .section-map-ulasan-heading {
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.section-map-ulasan .ulasan {
+  font-family: 'Playfair Display', serif;
+  color: #fff;
+}
+
+.section-map-ulasan .ulasan p {
+  font-size: 20px;
+}
+
+.section-map-ulasan .ulasan h5 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.section-map-ulasan .ulasan-mobile {
+  font-family: 'Playfair Display', serif;
+  color: #fff;
+  padding-bottom: 70px;
+}
+
+.section-map-ulasan .ulasan-mobile p {
+  font-size: 15px;
+}
+
+.section-map-ulasan .ulasan-mobile h5 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.section-map-ulasan h2 {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 25px;
+  color: white;
+}
+
+.section-footer {
+  background-color: #ECF4F8;
+}
+
+.section-footer a {
+  color: #071c4d;
+  font-size: 18px;
+}
+
+.section-footer h5 {
+  font-weight: bold;
+}
+
+.section-footer .bg-white {
+  background-color: #fffff !important;
+}
+/*# sourceMappingURL=main.css.map */
