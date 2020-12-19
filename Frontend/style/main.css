@@ -53,18 +53,19 @@ header h1 {
 }
 
 .section-penjelasan .section-penjelasan-heading-mobile {
-  margin-top: 100px;
+  margin-top: 70px;
+  padding-bottom: 100px;
 }
 
 .section-penjelasan .section-penjelasan-heading-mobile h2 {
   font-family: 'Playfair Display', serif;
-  font-size: 35px;
+  font-size: 30px;
   font-weight: bold;
 }
 
 .section-penjelasan .section-penjelasan-heading-mobile p {
   font-family: 'Assistant', serif;
-  font-size: 23px;
+  font-size: 20px;
 }
 
 .section-spot-lain .section-spot-heading {
@@ -134,7 +135,6 @@ header h1 {
 .section-map-ulasan .ulasan-mobile {
   font-family: 'Playfair Display', serif;
   color: #fff;
-  padding-bottom: 70px;
 }
 
 .section-map-ulasan .ulasan-mobile p {
@@ -167,6 +167,29 @@ header h1 {
 }
 
 .section-footer .bg-white {
-  background-color: #fffff !important;
+  background-color: #ffffff !important;
+}
+
+.section-ulasan {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../images/ulasan.png");
+  background-size: cover;
+}
+
+.section-ulasan p {
+  font-family: 'Playfair Display', serif;
+  color: #fff;
+  font-size: 20px;
+}
+
+.section-ulasan .spot-button .btn-spot-details {
+  background-color: #1A993B;
+  color: white;
+}
+
+.section-ulasan .spot-button .btn-spot-details:hover {
+  background-color: #31C056;
+  color: white;
 }
 /*# sourceMappingURL=main.css.map */

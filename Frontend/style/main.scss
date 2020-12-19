@@ -53,16 +53,17 @@ header{
     }
 
     .section-penjelasan-heading-mobile{
-        margin-top: 100px;
+        margin-top: 70px;
+        padding-bottom: 100px;
 
         h2{
             font-family: 'Playfair Display', serif; 
-            font-size: 35px;
+            font-size: 30px;
             font-weight: bold;
         }
         p{
             font-family: 'Assistant', serif;
-            font-size: 23px;
+            font-size: 20px;
         }
     }
 }
@@ -139,7 +140,6 @@ header{
     .ulasan-mobile{
         font-family: 'Playfair Display', serif;
         color: #fff;
-        padding-bottom: 70px;
         p{
             font-size: 15px;
         }
@@ -168,6 +168,32 @@ header{
         font-weight: bold;
     }
     .bg-white{
-        background-color: #fffff !important;
+        background-color: #ffffff !important;
     }
 }
+
+.section-ulasan{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-image: url('../images/ulasan.png');
+    background-size: cover;
+
+    p{
+        font-family: 'Playfair Display', serif;
+        color: #fff;
+        font-size: 20px;
+    }
+
+    .spot-button{
+        .btn-spot-details{
+            background-color: #1A993B;
+            color: white;
+    
+            &:hover{
+                background-color: #31C056;
+                color: white;
+            }
+        }
+    }
+}
+
